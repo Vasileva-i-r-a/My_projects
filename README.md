@@ -2,7 +2,6 @@
 ## Дашборды
 https://datalens.yandex.cloud/gpwq1nbjk0l02-dashbord-dlya-agentstva-nedvizhimosti?tab=aW 
 https://datalens.yandex.cloud/192aqm11jd9qn-analiz-ted-konferenciy
-https://datalens.yandex/338r2x9jgtxco
 https://datalens.yandex/j8cxohv5h5f84
 https://datalens.yandex/338r2x9jgtxco
 
